@@ -30,7 +30,6 @@ No están pensados para producción ni reflejan mi nivel profesional actual.
 | [EasyProgramming](https://github.com/alejandroVaron/EasyProgramming)        | Proyecto final: Demo de sistema de nodos para crear programas facilmente |
 | [PhotoFInder](https://github.com/alejandroVaron/PhotoFinder-Flickr)      | Proyecto final: Demo de app que permite realizar busqueda de imagenes por medio de tags    |
 | [ETickets](https://github.com/alejandroVaron/E-tickets)      | Proyecto final: Demo de app que permite gestionar tickets o "tareas" por medio de estados   |
-| [PhotoFInder](https://github.com/alejandroVaron/PhotoFinder-Flickr)      | Proyecto final: Demo de app que permite realizar busqueda de imagenes por medio de tags    |
 
 ---
 
